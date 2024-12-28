@@ -7,7 +7,7 @@
       "start": "node index.js"
     },
     "keywords": ["discord", "minecraft", "bot", "server", "player"],
-    "author": "Your Name",
+    "author": "5wye.js",
     "license": "MIT",
     "dependencies": {
       "discord.js": "^14.7.1",
