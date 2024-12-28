@@ -1,0 +1,16 @@
+{
+    "name": "minecraft-discord-bot",
+    "version": "1.0.0",
+    "description": "A Discord bot for Minecraft server status and player info.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": ["discord", "minecraft", "bot", "server", "player"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^14.7.1",
+      "minecraft-server-util": "^5.2.1"
+    }
+  }
